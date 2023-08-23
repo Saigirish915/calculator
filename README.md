@@ -1,3 +1,1 @@
-Calculator 
-a simple program to find basic arithmetic operations as: addition, subtraction, multiplication, division
-
+Simple calculator to perform arithmetic operations
