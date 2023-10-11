@@ -1,1 +1,1 @@
-Simple calculator to perform arithmetic operations
+Simple calculator to perform arithmetic operations.
